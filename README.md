@@ -174,45 +174,9 @@ There are 4 files: 2 notebooks of analysis and 2 python files for common formula
 * All countries to have ever hosted the events have more bronze medals compared to when they were not hosting.
 * While the chances of winning more silver and gold medals is high when hosting the events. There are some countries which have seen the opposite. Countries such as Canada and France have not reaped rewards of hosting events.
 
-# Sport with more medals
+# Medals per sport
 
-sport_code	sport	npc_gold	npc_silver	npc_bronze	total_medals
-2	AT	Athletics	1971	1680	1540	5191
-24	SW	Swimming	1910	1614	1452	4976
-1	AS	Alpine Skiing	475	429	382	1286
-26	TT	Table Tennis	375	287	317	979
-7	CC	Cross-Country	349	320	306	975
-8	CY	Cycling	225	195	178	598
-30	WF	Wheelchair Fencing	186	183	180	549
-0	AR	Archery	158	134	116	408
-21	SH	Shooting	156	125	105	386
-17	PO	Powerlifting	135	112	97	344
-5	BT	Biathlon	90	90	90	270
-15	JU	Judo	78	63	108	249
-10	EQ	Equestrian	72	72	70	214
-23	SS	Ice Sledge Speed Skating	66	65	63	194
-16	LB	Lawn Bowls	68	60	58	186
-32	WL	Weightlifting	58	55	49	162
-4	BO	Boccia	49	49	47	145
-34	WT	Wheelchair Tennis	36	36	36	108
-28	WB	Wheelchair Basketball	30	30	30	90
-27	VO	Volleyball	21	21	21	63
-13	GB	Goalball	20	20	20	60
-9	DC	Dartchery	12	12	15	39
-19	SA	Sailing	13	13	13	39
-18	RO	Rowing	12	12	12	36
-22	SN	Snooker	10	10	13	33
-20	SB	Snowboard	10	10	10	30
-12	FT	Football 7-a-side	10	10	10	30
-31	WG	Wrestling	18	10	1	29
-14	IH	Para Ice Hockey	7	7	7	21
-25	TR	Triathlon	6	6	6	18
-6	CA	Canoe	6	6	6	18
-33	WR	Wheelchair Rugby	5	5	5	15
-11	FB	Football 5-a-side	4	4	4	12
-29	WC	Wheelchair Curling	4	4	4	12
-3	BK	Basketball ID	0	1	1	2
-
+![alt text](image-22.png)
 
 * Athletics, Swimming and Alpine Skiing are the most popular sports. They have the most number of medals
 * Basketball only have two medals
