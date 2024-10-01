@@ -19,14 +19,14 @@ There are 4 files: 2 notebooks of analysis and 2 python files for common formula
 
 ## Medals distribution
 
-![alt text](image.png)
+![alt text](images/image.png)
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 * In total ***there are more gold medals*** which have been won followed by silver and then bronze
 * 
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 * In 1984 was when the most of the medals were won. A total of 4762
 * In 2006 was when the least number of medals won. A total of 320.
@@ -36,9 +36,9 @@ There are 4 files: 2 notebooks of analysis and 2 python files for common formula
 
 ## Summer and Winter events
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 * In total, there are 28 149 (84.1%) and  5 340 (15.9%) medals won in summer and winter events, respectively.
 * Paralympics were initially held in summer only until 1976 where the first paralympic were was held
@@ -48,13 +48,13 @@ There are 4 files: 2 notebooks of analysis and 2 python files for common formula
 * Thus the pattern of four years has remained over the time. Summer events are 4 years and winter events are 4 years as well between each other.
 
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 * The number of participating countries in winter are fewer compared to those who participate in summer.
 * The number of participating countried during both winter and summer events have been increasing over the years. However the number of countries participating in winter events remained relatively the same between 1994 and 2014
 
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 * A total of 15 summer events were held while only 12 winter events were held with the latest one being a winter event.
 * An average of 125 countries participate in summer eevents while an average of 39 countries participate in winter events
@@ -62,14 +62,14 @@ There are 4 files: 2 notebooks of analysis and 2 python files for common formula
 * A maximum of 150 countries participated in summer events and 53 participated in winter events. Both maximum number of participating countries occured in the last year of the dataset.
 
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
 * An average of 15 and 4 different sports are played in summer and winter paralympics events, respectively.
 * More sporting events occur in summer than in winter
 * Only a maximum of 6 different sports are played in winter which is lower than a maximum of 22 sports played in summer.
 
 
-![alt text](image-8.png)
+![alt text](images/image-8.png)
 
 * The number of sports played in both winter and summer events have increased over the years.
 * There are fewer sports played and contries participating in winter events compared to summer.
@@ -85,7 +85,7 @@ There are 4 files: 2 notebooks of analysis and 2 python files for common formula
 
 # Country Participation
 
-![alt text](image-9.png)
+![alt text](images/image-9.png)
 
 * There are some countries which only participate in winter or summer events and there are those who participate in both events
 * 1 Country(ies) only participate in Winter Events: ['Kazakhstan']
@@ -103,18 +103,18 @@ There are 4 files: 2 notebooks of analysis and 2 python files for common formula
 
 ## Top 10 countries with most medals
 
-![alt text](image-10.png)
+![alt text](images/image-10.png)
 
 
 ## Bottom 10 countries with least medals
 
-![alt text](image-11.png)
+![alt text](images/image-11.png)
 
 ## Country with most medal each year
 
-![alt text](image-12.png)
+![alt text](images/image-12.png)
 
-![alt text](image-13.png)
+![alt text](images/image-13.png)
 
 * USA have dominated the paralympic events. In 22 years of events being held, USA have come as number 1 in 11 occassions.
 * Italy which dominated the first paralympic event in 1960 have never repeated that feat in subsequent years.
@@ -125,7 +125,7 @@ There are 4 files: 2 notebooks of analysis and 2 python files for common formula
 
 ## Top and bottom 5 countries each year
 
-![alt text](image-14.png)
+![alt text](images/image-14.png)
 
 * No African or South American Country have been in the Top 5 of any paralympic events except for South Africa in 1972 in number 4 and Brazil in 2016 in number 5
 * South American and African countries appear in the botton 5 countries. Countries such as Egypt, Kenya and Zimbabwe from Africa and Argentina and Brazil from South America.
@@ -134,13 +134,13 @@ There are 4 files: 2 notebooks of analysis and 2 python files for common formula
 # Events Locations
 
 **Hosting Countries**
-![alt text](image-15.png)
+![alt text](images/image-15.png)
 
 **Hosting Cities**
-![alt text](image-16.png)
+![alt text](images/image-16.png)
 
 **Hosting Continent**
-![alt text](image-17.png)
+![alt text](images/image-17.png)
 
 * All the events have been hosted this in the northern hermisphere and mostly in Europe. The only exception was when the events were held in Australia and Brazil.
 * The hosting nations are from Europe, Asia and America with Europe dominated with 13 occassions where they played host to this events.
@@ -151,17 +151,17 @@ There are 4 files: 2 notebooks of analysis and 2 python files for common formula
 
 # Impact of hosting on country's success
 
-![alt text](image-18.png)
+![alt text](images/image-18.png)
 
 * On Average, countries have more Gold medals when hosting paralympic events than when not hosting. There is exception, tho, for Canada, France, USA, UK and Brazil. Canada, UK and USA have hosted the events twice or more. 
 * This means hosting an event increases the chances of a country winning more gold medals
 
-![alt text](image-19.png)
+![alt text](images/image-19.png)
 
 * On Average, countries have more Silver medals when hosting paralympic events than when not hosting. There is exception, tho, for Germany, Canada and France. Canada have hosted the events twice while Germany and France have hosted once. 
 * This means hosting an event increases the chances of a country winning more silver medals
 
-![alt text](image-20.png)
+![alt text](images/image-20.png)
 
 * On Average, countries have more bronze medals when hosting paralympic events than when not hosting.
 * This means hosting an event increases the chances of a country winning more bronze medals
@@ -176,7 +176,7 @@ There are 4 files: 2 notebooks of analysis and 2 python files for common formula
 
 # Medals per sport
 
-![alt text](image-22.png)
+![alt text](images/image-22.png)
 
 * Athletics, Swimming and Alpine Skiing are the most popular sports. They have the most number of medals
 * Basketball only have two medals
